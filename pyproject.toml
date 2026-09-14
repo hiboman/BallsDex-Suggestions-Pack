@@ -1,0 +1,20 @@
+[project]
+name = "suggestions"
+version = "0.0.1"
+
+description = "Suggestions package for BallsDex"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [
+  { name = "hiboman", email="hiboman@proton.me" },
+]
+readme = "README.md"
+
+# dependencies = [
+#     "ballsdex>=3.0.0",
+# ]
+
+[project.urls]
+Repository = "https://github.com/hiboman/BallsDex-Suggestions-Pack"
+Documentation = "https://github.com/hiboman/BallsDex-Suggestions-Pack#readme"
+Issues = "https://github.com/hiboman/BallsDex-Suggestions-Pack/issues"
